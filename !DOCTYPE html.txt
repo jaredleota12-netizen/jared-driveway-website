@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jared's Driveway Cleaning</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background: #e0f7fa;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #0077b6;
+      color: white;
+      padding: 20px;
+    }
+    h1 {
+      margin: 0;
+    }
+    main {
+      padding: 20px;
+    }
+    .services, .contact {
+      margin: 20px 0;
+    }
+    a.button {
+      display: inline-block;
+      margin: 10px;
+      padding: 12px 25px;
+      background: #00b4d8;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+      font-weight: bold;
+    }
+    footer {
+      background: #0077b6;
+      color: white;
+      padding: 10px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Jared's Driveway Cleaning</h1>
+  <p>Affordable Local Pressure Washing</p>
+</header>
+
+<main>
+  <section class="services">
+    <h2>Services & Prices</h2>
+    <p>Small Driveway: $30</p>
+    <p>Medium Driveway: $40</p>
+    <p>Large or extra dirty: $50</p>
+  </section>
+
+  <section class="contact">
+    <h2>Contact Me</h2>
+    <p>Phone/Text: <strong>0400 000 000</strong></p>
+    <p>Email: <strong>jaredcleaning
